@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* small extras */
+:root { color-scheme: dark; }
+* { scrollbar-width: thin; }
